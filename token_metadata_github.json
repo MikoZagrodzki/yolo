@@ -2,12 +2,12 @@
     "name": "yolo",
     "symbol": "yolo",
     "description": "yolo",
-    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", 
+    "image": "https://raw.githubusercontent.com/MikoZagrodzki/yolo/main/50cent.png", 
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
+                "uri": "https://raw.githubusercontent.com/MikoZagrodzki/yolo/main/50cent.png",
                 "type": "image/png"
             }
         ]
