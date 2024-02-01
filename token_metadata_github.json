@@ -1,13 +1,13 @@
 {
-    "name": "Piros pont",
-    "symbol": "PP",
-    "description": "Legpirosabb piros pont :)",
-    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", // RAW link a token ikonjához, ehez hasonló a jó / RAW link to the icon
+    "name": "yolo",
+    "symbol": "yolo",
+    "description": "yolo",
+    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", 
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png", // ugyanaz a link mint feljebb / the same link as up
+                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
                 "type": "image/png"
             }
         ]
